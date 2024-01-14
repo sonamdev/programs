@@ -1,0 +1,9 @@
+sentence1= "hello wrold!"
+print(sentence1)
+print(sentence1[4])
+print(sentence1[0])
+print(sentence1[1:7])
+var1="good morning manasa!"
+print(var1[2:9])
+print(sentence1[1:9:2])
+

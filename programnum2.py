@@ -1,0 +1,18 @@
+import numpy as nm # aliasing
+arr1=nm.array(["Ar","Sh","Ma"])
+print(arr1)
+print("skip....................")
+
+arr= nm.array([10,20,30,40,50,11])
+print(arr[1])
+print(arr[1]+arr[2])
+arr2d=nm.array([[1,2,3,4,5],[5,6,7,8,9],[10,20,30,40,50]])
+print("2d array...........")
+print(arr2d)
+print(arr2d[1,0])
+print(arr2d[1,3])
+print(arr[-1])
+print(arr[1:4])
+print(arr[4:])
+print(arr[:6:3])
+print(arr2d[0,1:4]) 

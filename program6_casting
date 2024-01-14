@@ -1,0 +1,13 @@
+var1=20
+str1="hello"
+var2= 30.557
+print(var1,var2,str1)
+var3= int(var2)
+print("the value of var3 is-",var3)
+var4= float(var1)
+print(var4)
+var5= str(var1)
+print(var5)
+#type()- will tell of the variable
+print(type(var5))
+print(type(var4))
